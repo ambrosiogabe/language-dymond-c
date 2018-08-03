@@ -1,6 +1,6 @@
 {
   "name": "language-dymond-c",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "This is a grammar for the language Dymond",
   "repository": "https://github.com/ambrosiogabe/language-dymond-c",
   "license": "MIT",
