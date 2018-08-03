@@ -2,14 +2,9 @@
   "name": "language-dymond-c",
   "version": "0.0.0",
   "description": "This is a grammar for the language Dymond",
-  "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ambrosiogabe/language-cdymond"
-  },
+  "repository": "https://github.com/ambrosiogabe/language-dymond-c",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
-  },
-  "dependencies": {}
+  }
 }
